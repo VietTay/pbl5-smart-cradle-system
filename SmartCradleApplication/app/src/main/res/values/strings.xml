@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Smart Cradle Application</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="Signup">Sign UP</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">name</string>
+    <string name="log_out">Log Out</string>
+    <string name="view_camera">VIEW CAMERA</string>
+    <string name="swing_cradle">CONTROL CRADLE</string>
+    <string name="listen">LISTEN BABY</string>
+    <string name="notice">NOTICE</string>
+    <string name="reload">RELOAD</string>
+    <string name="default_notification_channel_id">default_channel</string>
+</resources>
