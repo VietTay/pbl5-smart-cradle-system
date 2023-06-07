@@ -1,5 +1,6 @@
 # pbl5-smart-cradle-system
 Tên ứng dụng: app nhận thông báo của hệ thống nôi thông minh
+
 Hướng dẫn cài đặt và chạy chương trình
 1. Cài đặt Android Studio trên máy tính của bạn.
 2. Clone repository này vào máy tính của bạn.
